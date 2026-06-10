@@ -1,0 +1,6 @@
+{
+  "name": "Pizzeria La Pendola",
+  "description": "Sito web elegante, moderno e appetitoso per la famosa Pizzeria Ristorante La Pendola a Cremona. Gestione prenotazioni, menu interattivo e orari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
